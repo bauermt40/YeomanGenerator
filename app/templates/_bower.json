@@ -1,0 +1,17 @@
+{
+  "name": "<%= _.slugify(appName) %>",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular-bootstrap": "~0.5.0",
+    "angular": "1.2.0-rc.1",
+    "bootstrap": "~3.0.0",
+    "html5shiv": "~3.6.2",
+    "respond": "~1.2.0",
+    "angular-animate": "*",
+    "angular-route": "*",
+    "angular-mocks": "~1.0.7"
+  },
+  "resolutions": {
+    "angular": "1.2.0-rc.1"
+  }
+}
